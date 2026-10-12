@@ -59,6 +59,11 @@
       "coordinates": [786, 2631],
       "flag": "md",
       "name": "Moldova"
+    },
+    {
+      "coordinates": [556, 2300],
+      "flag": "by",
+      "name": "Belarus"
     }
   ]
 }
