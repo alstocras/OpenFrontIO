@@ -1,0 +1,34 @@
+{
+  "id": "USSR",
+  "name": "Soviet Union",
+  "multiplayer_frequency": 9,
+  "translation_key": "map.ussr",
+  "categories": ["countries"],
+  "nations": [
+    {
+      "coordinates": [4191, 1311],
+      "flag": "ru",
+      "name": "Russia"
+    },
+    {
+      "coordinates": [886, 2438],
+      "flag": "ua",
+      "name": "Ukraine"
+    },
+    {
+      "coordinates": [2984, 2623],
+      "flag": "kz",
+      "name": "Kazakhstan"
+    },
+    {
+      "coordinates": [2479, 3131],
+      "flag": "tm",
+      "name": "Turkmenistan"
+    },
+    {
+      "coordinates": [2639, 2915],
+      "flag": "uz",
+      "name": "Uzbekistan"
+    }
+  ]
+}
