@@ -3,7 +3,7 @@
   "name": "Soviet Union",
   "multiplayer_frequency": 9,
   "translation_key": "map.ussr",
-  "categories": ["countries"],
+  "categories": ["countries", "europe", "asia"],
   "nations": [
     {
       "coordinates": [4191, 1311],
