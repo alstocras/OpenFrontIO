@@ -1,5 +1,5 @@
 {
-  "categories": ["countries"],
+  "categories": ["countries", "europe", "asia"],
   "id": "USSR",
   "map": {
     "height": 4160,
@@ -45,7 +45,7 @@
       "name": "Uzbekistan"
     },
     {
-      "coordinates": [3734, 2924],
+      "coordinates": [3797, 2982],
       "flag": "kg",
       "name": "Kyrgyzstan"
     },
@@ -55,14 +55,44 @@
       "name": "Tajikistan"
     },
     {
-      "coordinates": [3418, 3204],
-      "flag": "tj",
-      "name": "Tajikistan"
+      "coordinates": [1741, 3071],
+      "flag": "am",
+      "name": "Armenia"
     },
     {
       "coordinates": [1997, 3083],
       "flag": "az",
       "name": "Azerbaijan"
+    },
+    {
+      "coordinates": [1516, 2848],
+      "flag": "ge",
+      "name": "Georgia"
+    },
+    {
+      "coordinates": [786, 2631],
+      "flag": "md",
+      "name": "Moldova"
+    },
+    {
+      "coordinates": [556, 2300],
+      "flag": "by",
+      "name": "Belarus"
+    },
+    {
+      "coordinates": [596, 1880],
+      "flag": "ee",
+      "name": "Estonia"
+    },
+    {
+      "coordinates": [588, 1993],
+      "flag": "lv",
+      "name": "Latvia"
+    },
+    {
+      "coordinates": [393, 2101],
+      "flag": "lt",
+      "name": "Lithuania"
     }
   ],
   "translation_key": "map.ussr"
