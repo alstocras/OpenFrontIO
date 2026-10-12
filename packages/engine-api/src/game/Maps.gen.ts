@@ -126,6 +126,7 @@ export enum GameMapType {
   TradersDream = "Traders Dream", // map-generator/assets/maps/tradersdream/info.json
   TwoLakes = "Two Lakes", // map-generator/assets/maps/twolakes/info.json
   UnitedStates = "United States", // map-generator/assets/maps/unitedstates/info.json
+  USSR = "Soviet Union", // map-generator/assets/maps/ussr/info.json
   VancouverIsland = "Vancouver Island", // map-generator/assets/maps/vancouverisland/info.json
   Venice = "Venice", // map-generator/assets/maps/venice/info.json
   Vietnam = "Vietnam", // map-generator/assets/maps/vietnam/info.json
@@ -2436,6 +2437,17 @@ export const maps: readonly MapInfo[] = [
     specialFrequency: -1,
     defaultNationCount: 49,
     themes: ["north_america"],
+  },
+  {
+    id: "USSR",
+    type: GameMapType.USSR,
+    translationKey: "map.ussr",
+    categories: ["countries"],
+    multiplayerFrequency: 9,
+    ffaFrequency: -1,
+    teamFrequency: -1,
+    specialFrequency: -1,
+    defaultNationCount: 9,
   },
   {
     id: "VancouverIsland",

@@ -1,0 +1,69 @@
+{
+  "categories": ["countries"],
+  "id": "USSR",
+  "map": {
+    "height": 4160,
+    "num_land_tiles": 13266182,
+    "width": 9896
+  },
+  "map16x": {
+    "height": 1040,
+    "num_land_tiles": 822371,
+    "width": 2474
+  },
+  "map4x": {
+    "height": 2080,
+    "num_land_tiles": 3307245,
+    "width": 4948
+  },
+  "multiplayer_frequency": 9,
+  "name": "Soviet Union",
+  "nations": [
+    {
+      "coordinates": [4191, 1311],
+      "flag": "ru",
+      "name": "Russia"
+    },
+    {
+      "coordinates": [886, 2438],
+      "flag": "ua",
+      "name": "Ukraine"
+    },
+    {
+      "coordinates": [2984, 2623],
+      "flag": "kz",
+      "name": "Kazakhstan"
+    },
+    {
+      "coordinates": [2479, 3131],
+      "flag": "tm",
+      "name": "Turkmenistan"
+    },
+    {
+      "coordinates": [2639, 2915],
+      "flag": "uz",
+      "name": "Uzbekistan"
+    },
+    {
+      "coordinates": [3734, 2924],
+      "flag": "kg",
+      "name": "Kyrgyzstan"
+    },
+    {
+      "coordinates": [3418, 3204],
+      "flag": "tj",
+      "name": "Tajikistan"
+    },
+    {
+      "coordinates": [3418, 3204],
+      "flag": "tj",
+      "name": "Tajikistan"
+    },
+    {
+      "coordinates": [1997, 3083],
+      "flag": "az",
+      "name": "Azerbaijan"
+    }
+  ],
+  "translation_key": "map.ussr"
+}
