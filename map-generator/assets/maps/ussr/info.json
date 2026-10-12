@@ -64,6 +64,21 @@
       "coordinates": [556, 2300],
       "flag": "by",
       "name": "Belarus"
-    }
+    },
+    {
+      "coordinates": [596, 1880],
+      "flag": "ee",
+      "name": "Estonia"
+    },
+    {
+      "coordinates": [588, 1993],
+      "flag": "lv",
+      "name": "Latvia"
+    },
+    {
+      "coordinates": [393, 2101],
+      "flag": "lt",
+      "name": "Lithuania"
+    },
   ]
 }
