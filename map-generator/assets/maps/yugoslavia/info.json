@@ -9,6 +9,11 @@
       "coordinates": [463, 196],
       "name": "Serbia",
       "flag": "rs"
+    },
+    {
+      "coordinates": [414, 288],
+      "name": "Kosovo",
+      "flag": "xk"
     }
   ]
 }
