@@ -1,0 +1,14 @@
+{
+  "id": "Yugoslavia",
+  "name": "Yugoslavia",
+  "translation_key": "map.yugoslavia",
+  "categories": ["europe", "countries"],
+  "multiplayer_frequency": 9,
+  "nations": [
+    {
+      "coordinates": [463, 196],
+      "name": "Serbia",
+      "flag": "rs"
+    }
+  ]
+}
