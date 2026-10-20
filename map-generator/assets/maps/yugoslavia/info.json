@@ -25,6 +25,11 @@
       "coordinates": [171, 152],
       "name": "Bosnia and Herzegovina",
       "flag": "ba"
+    },
+    {
+      "coordinates": [106, 113],
+      "name": "Croatia",
+      "flag": "hr"
     }
   ]
 }

@@ -138,6 +138,7 @@ export enum GameMapType {
   YangtzeRiver = "Yangtze River", // map-generator/assets/maps/yangtzeriver/info.json
   YellowSea = "Yellow Sea", // map-generator/assets/maps/yellowsea/info.json
   Yenisei = "Yenisei", // map-generator/assets/maps/yenisei/info.json
+  Yugoslavia = "Yugoslavia", // map-generator/assets/maps/yugoslavia/info.json
 }
 
 export type GameMapName = keyof typeof GameMapType;
@@ -2589,5 +2590,17 @@ export const maps: readonly MapInfo[] = [
     specialFrequency: -1,
     defaultNationCount: 6,
     themes: ["asia"],
+  },
+  {
+    id: "Yugoslavia",
+    type: GameMapType.Yugoslavia,
+    translationKey: "map.yugoslavia",
+    categories: ["europe", "countries"],
+    multiplayerFrequency: 9,
+    ffaFrequency: -1,
+    teamFrequency: -1,
+    specialFrequency: -1,
+    defaultNationCount: 4,
+    themes: ["europe"],
   },
 ];
