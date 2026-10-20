@@ -14,6 +14,16 @@
       "coordinates": [414, 288],
       "name": "Kosovo",
       "flag": "xk"
+    },
+    {
+      "coordinates": [357, 322],
+      "name": "Montenegro",
+      "flag": "me"
+    },
+    {
+      "coordinates": [171, 152],
+      "name": "Bosnia and Herzegovina",
+      "flag": "ba"
     }
   ]
 }
