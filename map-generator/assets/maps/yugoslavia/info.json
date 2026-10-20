@@ -4,6 +4,7 @@
   "translation_key": "map.yugoslavia",
   "categories": ["europe", "countries"],
   "multiplayer_frequency": 9,
+  "themes": ["europe"],
   "nations": [
     {
       "coordinates": [463, 196],
